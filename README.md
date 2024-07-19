@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gabrielpires01/gabrielpires01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Olá, eu sou o Gabriel Pires
+Atualmente, sou estagiário de desenvolvimento de software na **Maravi**, onde trabalho com tecnologias como **React, Python**.
+
+- 🔭 Atualmente trabalho com Front-end;
+- 🌱 Focado em me tornar um desenvolvedor versatil;
+- ❗Atualmente tenho focado em aprender Rust, trbalahdno em projetos pessoais;
+- 📚 Cursando Engenharia da Computação e Informação na UFRJ
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpires01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpires01&layout=compact&theme=radical)
