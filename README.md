@@ -17,7 +17,7 @@ Atualmente, sou estagiário de desenvolvimento de software na **Maravi**, onde t
 
 - 🔭 Atualmente trabalho com Front-end;
 - 🌱 Focado em me tornar um desenvolvedor versatil;
-- ❗Atualmente tenho focado em aprender Rust, trbalahdno em projetos pessoais;
+- ❗Atualmente tenho focado em aprender Rust, trabalhando em projetos pessoais;
 - 📚 Cursando Engenharia da Computação e Informação na UFRJ
 
 ##
