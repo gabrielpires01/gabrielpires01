@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Olá, eu sou o Gabriel Pires
 Atualmente, sou desenvolvedor de software na **Maravi**, onde trabalho com tecnologias como **Typescript, React, Python**.
 
-- 🔭 Atualmente trabalho com Front-end;
+- 🔭 Atualmente trabalho como Full-stack;
 - 🌱 Focado em me tornar um desenvolvedor versatil;
 - ❗Atualmente tenho focado em aprender Rust, trabalhando em projetos pessoais;
 - 📚 Cursando Engenharia da Computação e Informação na UFRJ
