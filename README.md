@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, eu sou o Gabriel Pires
-Atualmente, sou estagiário de desenvolvimento de software na **Maravi**, onde trabalho com tecnologias como **React, Python**.
+Atualmente, sou desenvolvedor de software na **Maravi**, onde trabalho com tecnologias como **Typescript, React, Python**.
 
 - 🔭 Atualmente trabalho com Front-end;
 - 🌱 Focado em me tornar um desenvolvedor versatil;
